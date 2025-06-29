@@ -4,7 +4,7 @@ import sys
 import m3u8
 import json
 import time
-import pytz
+import pytzdrm
 import asyncio
 import requests
 import subprocess
@@ -727,7 +727,7 @@ async def txt_handler(bot: Client, m: Message):
                 keys_string = " ".join([f"--key {key}" for key in keys])
 
             elif "classplusapp.com/drm/" in url:
-                url = f"https://key-one-gamma.vercel.app/api?url={url}&token={raw_text4}"
+                url = f"https://scammer-keys.vercel.app/api?url={url}&token={raw_text4}"
                 #url = 'https://dragoapi.vercel.app/classplus?link=' + url
                 mpd, keys = helper.get_mps_and_keys(url)
                 url = mpd
