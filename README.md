@@ -24,7 +24,7 @@ https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
 
 ## Deploy Via Buttons
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/cyberseller999/saini-txt-direct)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/mehuljain2003/FORKED-CP/tree/main)
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/xpingpongx/Extractor-V3&template=https://github.com/cyberseller/saini-txt-direct)
 
