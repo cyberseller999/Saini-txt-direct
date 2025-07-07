@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
 
-***Welcome to DRM bot made by @nikhil.saini.khe (Instagram)***
+***Welcome to DRM bot made by @.saini.khe (Instagram)***
 
 **Don't Remove Credit tag**
 **Note:** CP DRM SUPPORTED MINIMUM QUALITY 360
@@ -13,7 +13,7 @@
 
 ## Deployment Process 
 Watch YouTube Video
-https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
+https://STM6w44?si=noKPl7o4iU9SR_TO
 
 > 1. Fork the Repository
 > 2. edit vars.py and fillup API ID and API HASH
@@ -34,11 +34,11 @@ https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
 
 
 Bot username
-@saini_contact_bot
-@saini_file_store_bot
+@_contact_bot
+@l_file_store_bot
 
 
 Repo 
-https://github.com/nikhilsainiop/saini-txt-direct
+https://github.com/t-direct
 
-https://github.com/cyberseller999/saini-txt-direct
+https://github.com//-txt-direct
